@@ -6,7 +6,7 @@ MATLAB simulation code for "Sum-rate Maximization and Outage Analysis of RIS-Ass
 
 Here is a detailed description of the package:
 
-The code is implemented in the MATLAB environment. By running the script `main.m`, the simulation results corresponding to Figs. 5 and 6 of the paper can be reproduced. The framework can also be extended by modifying the alternating optimization (AO) procedure, RIS phase-shift design, and precoding strategies to evaluate and compare different multiple-access schemes, including RSMA, NOMA, and SDMA.
+The code is implemented in the MATLAB environment. By running the script `Main.m`, the simulation results corresponding to Figs. 5 and 6 of the paper can be reproduced. The framework can also be extended by modifying the alternating optimization (AO) procedure, RIS phase-shift design, and precoding strategies to evaluate and compare different multiple-access schemes, including RSMA, NOMA, and SDMA.
 
 ## Abstract of the Article
 
